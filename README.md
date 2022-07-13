@@ -8,4 +8,6 @@ https://pkg.go.dev/howett.net/plist
 
 https://stackoverflow.com/questions/38657880/parsing-plist-xml  
 
+> Suggest ↓↓↓
+
 https://wtools.io/convert-plist-to-json
